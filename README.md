@@ -15,7 +15,7 @@
    - Calculated measures of central tendency and dispersion to understand dataset characteristics.
    
 4. Data Visualization:
-   - Utilized Matplotlib to create histograms, scatter plots, and bar plots for visual insights.
+   - Utilized Matplotlib to create histograms and bar plots for visual insights.
    
 5. Sales Trends Analysis:
    - Identified busiest sales months and days of the week to optimize inventory and staffing.
