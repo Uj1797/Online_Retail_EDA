@@ -18,6 +18,7 @@
    - Utilized Matplotlib to create histograms and bar plots for visual insights.
 
 5. Samples:![1](https://github.com/user-attachments/assets/9e984361-ea99-4c33-8643-67b8812fa613)
+![2](https://github.com/user-attachments/assets/aa1d24a8-fa05-4b48-b069-ef0166227789)
 
    
 6. Sales Trends Analysis:
