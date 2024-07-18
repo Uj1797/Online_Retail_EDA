@@ -28,6 +28,12 @@
    
 8. Conclusions:
    - Summarized findings to provide actionable insights for strategic business decisions.
+  
+9. Sample screen shots of the visualization
+![1](https://github.com/user-attachments/assets/fdff24e8-3ab2-4b82-9923-a5444005e4ed)
+
+   ![2](https://github.com/user-attachments/assets/a204b4b6-ea32-4df4-b162-74d50e473b43)
+      
 
 #### Technologies Used:
 - Pandas
