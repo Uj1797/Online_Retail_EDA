@@ -16,23 +16,24 @@
    
 4. Data Visualization:
    - Utilized Matplotlib to create histograms and bar plots for visual insights.
+
+5. Samples:![1](https://github.com/user-attachments/assets/9e984361-ea99-4c33-8643-67b8812fa613)
+
    
-5. Sales Trends Analysis:
+6. Sales Trends Analysis:
    - Identified busiest sales months and days of the week to optimize inventory and staffing.
    
-6. Top-Selling Products and Regions:
+7. Top-Selling Products and Regions:
    - Analyzed quantity sold to determine best-selling products and top-performing countries.
    
-7. Outlier Detection:
+8. Outlier Detection:
    - Identified outliers and discussed their potential impact on analysis and recommendations.
    
-8. Conclusions:
+9. Conclusions:
    - Summarized findings to provide actionable insights for strategic business decisions.
+   - Further enhancements can be made by incoperating better outliers removal methodologies like Z-score
   
-9. Sample screen shots of the visualization
-![1](https://github.com/user-attachments/assets/fdff24e8-3ab2-4b82-9923-a5444005e4ed)
 
-   ![2](https://github.com/user-attachments/assets/a204b4b6-ea32-4df4-b162-74d50e473b43)
       
 
 #### Technologies Used:
